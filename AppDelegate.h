@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  NewsReader
 //
-//  Created by hejinbo on 15/7/7.
-//  Copyright (c) 2015年 MyCos. All rights reserved.
+//  Created by Weikuan Chen on 15/13/08.
+//  Copyright 2015 Flying Weikuan All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
